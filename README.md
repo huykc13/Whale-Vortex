@@ -11,12 +11,12 @@ Link to Project introduction slide: https://drive.google.com/drive/folders/11p06
 
 Planning doccument: https://docs.google.com/spreadsheets/d/1sgufeN1YJdpTiR6TnkdTZimTfkDtmgp8wSL2LdKqSTQ/edit?usp=sharing
 
-Quiz: https://dashboard.blooket.com/set/6af91e2ce96a98da6407999f
+Quiz 1: https://dashboard.blooket.com/set/6af91e2ce96a98da6407999f
 
-      https://dashboard.blooket.com/set/6af91f71303f8b51c0ef0e74
+     2: https://dashboard.blooket.com/set/6af91f71303f8b51c0ef0e74
 
-      https://dashboard.blooket.com/set/6af92097303f8b51c0ef0e88
+     3: https://dashboard.blooket.com/set/6af92097303f8b51c0ef0e88
 
-      https://dashboard.blooket.com/set/6af9216107c9a6c5a5501656
+     4: https://dashboard.blooket.com/set/6af9216107c9a6c5a5501656
 
-      https://dashboard.blooket.com/set/6af9220262f0fb39d91b5a2b
+     5: https://dashboard.blooket.com/set/6af9220262f0fb39d91b5a2b
