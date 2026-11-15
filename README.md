@@ -24,3 +24,12 @@ Quiz
 5: https://dashboard.blooket.com/set/6af9220262f0fb39d91b5a2b
 
 Website tutorial video: https://www.youtube.com/watch?v=_u1TCCA7y-Y
+
+Book surveys
+-Link 1: "The needs of interactive book" survey form:
+
+https://docs.google.com/document/d/1VxjO2TiueirwR5aPYB2TVovw0s9MegwcyJxsJFmIxYQ/edit?usp=sharing
+
+-Link 2: Whale Vortex user's survey:
+
+https://docs.google.com/document/d/1k-Fc_RxFj4OjGoye58pdEFxwx8XtOPSHwdFDUp7UsWQ/edit?usp=sharing
