@@ -5,9 +5,9 @@ Website link: https://huykc13.github.io/Whale-Vortex/index%20(1).html
 
 Link to the Guide for Building an Interactive Book: https://docs.google.com/document/d/1hhCz1Q-TWnBFyEXipmEHPkMV5R73IWxS7hGuB13yX-U/edit?tab=t.0
 
-Link to the book: https://drive.google.com/drive/folders/1P9_9bAPCgOdhRtGWgBl4ZDsAQQfjAt6A
+Link to the book: https://drive.google.com/file/d/1KBUe-5xPKZsChtxhFQLZ1f3J4uR1aHG-/view?usp=sharing
 
-Link to Project introduction slide: https://drive.google.com/drive/folders/11p06fqcR1MteHAngUl3iJquoSOVrmH8y
+Link to Project introduction slide: https://drive.google.com/file/d/18RSzOGwXR8psjhdrsn-r_NV3i5fkUk-U/view?usp=sharing
 
 Planning doccument: https://docs.google.com/spreadsheets/d/1sgufeN1YJdpTiR6TnkdTZimTfkDtmgp8wSL2LdKqSTQ/edit?usp=sharing
 
